@@ -28,3 +28,4 @@ searchInput.addEventListener('input', (e) => displayCourses(e.target.value));
 
 // Carga inicial
 displayCourses();
+console.log('Validando conexión con el servidor...');
