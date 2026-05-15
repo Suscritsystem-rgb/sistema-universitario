@@ -8,4 +8,5 @@ Este es un proyecto colaborativo para la gestión de horarios universitarios.
 
 ## Tecnologías
 - HTML5, CSS3, JavaScript.
-Estado del proyecto: En desarrollo por Backend
+
+Estado del proyecto: Finalizado por el Líder tras la integración del desarrollo de Backend.
